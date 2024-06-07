@@ -16,8 +16,8 @@
 
 ## 💻 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmikadushan&theme=nord&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmikadushan&hide=Tcl,HTML,Pascal,Perl,Makefile,Cmake,Shell&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages&card_width=470px&theme=nord&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmikadushan&theme=prussian&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmikadushan&hide=Tcl,HTML,Pascal,Perl,Makefile,Cmake,Shell&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages&card_width=470px&theme=prussian&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
