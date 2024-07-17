@@ -31,6 +31,8 @@
 - 🧤 [VR Glove](https://github.com/RashmikaDushan/VR_Glove)
 
 - 🧫 [Project TENG](https://github.com/RashmikaDushan/TENG)
+
+- 🌐 [Portfolio Website](https://rashmikadushan.github.io)
   
 
 ## 💻 Tech Stack:
