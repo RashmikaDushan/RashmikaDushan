@@ -28,9 +28,9 @@
   
 - 🔭 Star Tracker
 
-- 📚 Meta Reads
+- 🧤 [VR Glove](https://github.com/RashmikaDushan/VR_Glove)
 
-- 🧫 Project TENG
+- 🧫 [Project TENG](https://github.com/RashmikaDushan/TENG)
   
 
 ## 💻 Tech Stack:
